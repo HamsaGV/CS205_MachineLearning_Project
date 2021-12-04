@@ -1,9 +1,9 @@
 # CS205_MachineLearning_Project
 
 ## Team Members:
-Cristina Lawson (claws001)
-Hamsa Gouda Veerendra (hveer003)
-Rucha Kolhatkar (rkolh001)
+- Cristina Lawson (claws001)
+- Hamsa Gouda Veerendra (hveer003)
+- Rucha Kolhatkar (rkolh001)
 
 ## Image Text Extraction and Information Retrieval
 
