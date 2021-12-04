@@ -1,9 +1,9 @@
 # README
 
-## TEAM MEMBERS:
-Cristina Lawson (claws001)
-Hamsa Gouda Veerendra (hveer003)
-Rucha Kolhatkar (rkolh001)
+## Team Members:
+- Cristina Lawson (claws001)
+- Hamsa Gouda Veerendra (hveer003)
+- Rucha Kolhatkar (rkolh001)
 
 ## Image Text Extraction and Information Retrieval
 
@@ -18,11 +18,11 @@ Machine learning libraries (PIL, Pytesseract, Pandas, Elasticsearch) were first 
 
 ## Data:
 
-The first dataset in Data/Typed is from https://guillaumejaume.github.io/FUNSD/
-The second dataset in Data/Written (png-files)  is from https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
-The third dataset in Data/Written (jpg-files) is from https://goodnotes.com/gnhk/
+- The first dataset in Data/Typed is from https://guillaumejaume.github.io/FUNSD/
+- The second dataset in Data/Written (png-files)  is from https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
+- The third dataset in Data/Written (jpg-files) is from https://goodnotes.com/gnhk/
 
-## DataStore:
+## Datastore:
 
 The image data is stored in two separate folders and created, converted into a dictionary that stores the images and results into a Pandas DataFrame. Then the DataFrame was exported to a CSV file: “output.csv”
 
