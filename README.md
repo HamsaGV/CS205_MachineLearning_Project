@@ -1,6 +1,6 @@
 # CS205_MachineLearning_Project
 
-## TEAM MEMBERS:
+## Team Members:
 Cristina Lawson (claws001)
 Hamsa Gouda Veerendra (hveer003)
 Rucha Kolhatkar (rkolh001)
