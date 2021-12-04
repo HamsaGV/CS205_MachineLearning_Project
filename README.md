@@ -18,9 +18,9 @@ Machine learning libraries (PIL, Pytesseract, Pandas, Elasticsearch) were first 
 
 ## Data:
 
-The first dataset in Data/Typed is from https://guillaumejaume.github.io/FUNSD/
-The second dataset in Data/Written (png-files)  is from https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
-The third dataset in Data/Written (jpg-files) is from https://goodnotes.com/gnhk/
+- The first dataset in Data/Typed is from https://guillaumejaume.github.io/FUNSD/
+- The second dataset in Data/Written (png-files)  is from https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
+- The third dataset in Data/Written (jpg-files) is from https://goodnotes.com/gnhk/
 
 ## DataStore:
 
