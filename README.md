@@ -1,6 +1,6 @@
 # README
 
-# TEAM MEMBERS:
+## TEAM MEMBERS:
 Cristina Lawson (claws001)
 Hamsa Gouda Veerendra (hveer003)
 Rucha Kolhatkar (rkolh001)
