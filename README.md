@@ -22,7 +22,7 @@ Machine learning libraries (PIL, Pytesseract, Pandas, Elasticsearch) were first 
 - The second dataset in Data/Written (png-files)  is from https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
 - The third dataset in Data/Written (jpg-files) is from https://goodnotes.com/gnhk/
 
-## DataStore:
+## Datastore:
 
 The image data is stored in two separate folders and created, converted into a dictionary that stores the images and results into a Pandas DataFrame. Then the DataFrame was exported to a CSV file: “output.csv”
 
